@@ -1,0 +1,25 @@
+{
+  "name": "ddos-bot",
+  "version": "1.0.3",
+  "description": "Node js ddos-bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tempiltin/ddos-bot.git"
+  },
+  "keywords": [
+    "Ddos",
+    "Node",
+    "ddos",
+    "ddos-bot"
+  ],
+  "author": "Tempiltin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "request": "^2.88.2"
+  }
+}
